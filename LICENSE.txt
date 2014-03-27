@@ -1,0 +1,5 @@
+this addon is just for fun~
+
+the license is MIT
+
+you can fork this project and change it by yourself

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.plurkTrend" name="Plurk Trend Rebirth" version="0.0.1" provider-name="Grassboy">
+  <requires />
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>提供最近噗浪河道上最夯的 YouTube 影片播放</summary>
+    <description>這個套件會和 grassboy.tw 要最近在噗浪河道上最夯的 YouTube 影片，您可直接從 XBMC 進行播放</description>
+    <platform>all</platform>
+    <license>MIT</license>
+    <forum></forum>
+    <website>http://plurk.grassboy.tw</website>
+    <email>XBMC@mail.grassboy.tw</email>
+    <source></source>
+  </extension>
+</addon>
+
